@@ -6,7 +6,7 @@ The vision of the Crypto Assessment is to provide a simple, transparent approach
 
 The Crypto Assessment is an offering proposed by the IBM Client Center of Montpellier. This technical study has been designed to help client to have answer regarding 2 important questions:
 
-:question: **CONFIGURATION REVIEW** - Are my today settings optimized to achieved both my security and performance objective? *(Protocol setting review, AT-TLS policy review, network connections security assessment, network connections mapping, cipher suite review, openSSH configuration review, ...)*
+:question: **CONFIGURATION REVIEW** - Are my today settings optimized to achieve both my security and performance objectives? *(Protocol setting review, AT-TLS policy review, network connections security assessment, network connections mapping, cipher suite review, openSSH configuration review, ...)*
 
 :question: **PERFORMANCE** - How and where can I optimize performance of the encryption in my environment? *(CipherSuite, Key Exchange, IBM Z instructions adherence, Mode of Operation, Crypto Cards configuration, PFS, ...)*
 
